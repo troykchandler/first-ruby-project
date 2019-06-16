@@ -1,0 +1,2 @@
+class Quoe < ApplicationRecord
+end
